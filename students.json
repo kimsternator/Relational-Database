@@ -1,0 +1,20 @@
+{
+  "course": "ECE141b",
+  "assignment"         : 9,
+  "due_date"           : "June 4, 2021, 11:30p",
+  "total_effort_hours" : 10,
+  "students": [
+    {
+      "name " : "Stephen Kim",
+      "pid"   : "A15400652",
+      "email" : "sskim@ucsd.edu",
+      "os"    : "windows"
+    },
+    {
+      "name " : "Kevin Hau",
+      "pid"   : "A12649934",
+      "email" : "kehau@ucsd.edu",
+      "os"    : "windows"
+    }
+  ]
+}
